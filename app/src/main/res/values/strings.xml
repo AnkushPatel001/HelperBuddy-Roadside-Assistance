@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Roadbuddy</string>
+    <string name="your_reliable_mobile_solution">Your Reliable Mobile Solution</string>
+    <string name="welcome">Welcome</string>
+    <string name="already_have_an_account_log_in">Already have an account ? </string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="helperbuddy">HelperBuddy</string>
+    <string name="lalitInfo"><b>Lalit:</b> \n CSE student passionate about Android development and backend integration and great knowledge in UI/UX. Experience with Java, Kotlin, and REST APIs.</string>
+    <string name="amanInfo"><b>Aman:</b> \nSkilled in figma design, Kotlin, and jetpack compose. Focuses on user experience and performance optimization.</string>
+    <string name="ankushInfo"><b>Ankush:</b> \nFocused on app development with proficiency in Kotlin, Java, and Firebase for real-time data and cloud integration.</string>
+    <string name="namanInfo"><b>Naman:</b> \nSpecializes in Android UI/UX with expertise in Kotlin and XML, focusing on user-centered design.</string>
+</resources>
